@@ -15,13 +15,3 @@ correct.
   $ curl  -d "longitude=-77.036133&latitude=40.513799" http://localhost:8080/
   ["Pennsylvania"]
   $
-
-
-## Notes
-
-Given that file, it took one of us about an hour to implement something that
-worked correctly. You're welcome to take it however far you want, but we're
-expecting something along those lines.
-
-And if there's anything special we have to do to run your program, just let us
-know. A Makefile never hurt anyone.
